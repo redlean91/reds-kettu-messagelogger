@@ -1,0 +1,9 @@
+{
+  "name": "Persistent Message Logger",
+  "description": "Keeps deleted messages and edit history, saved across app restarts.",
+  "authors": [{ "name": "Red" }],
+  "main": "index.js",
+  "version": "1.0.0",
+  "hash": "bd7cd14fba89c2890ba6a7df5ca235fcb8ac1930a1a3fadd97775181a1dca516",
+  "vendetta": { "icon": "ic_message_edit" }
+}
